@@ -7,7 +7,7 @@ const app = express();
 app.get('/', (req, res) => {
   return res.json([
     {
-      id: '1',
+      _id: 1,
       name: 'Avengers - infinity war',
       description: 'a Blue ray movie'
     }
