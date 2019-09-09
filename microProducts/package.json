@@ -1,0 +1,17 @@
+{
+  "name": "microProduts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node --experimental-modules app.mjs",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "types": "modules",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
